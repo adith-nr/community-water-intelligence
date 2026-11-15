@@ -1,0 +1,26 @@
+[
+  {
+    "file": "cpcb-uttar-pradesh-2021-2025.csv",
+    "url": "https://nwdp.nwic.gov.in/dataset/c547abaa-fbdc-4f46-b152-dc023be0c75c/resource/caf05460-e4bc-498d-85f3-2ed21a595e89/download/swq_physical_parameter_manual_cpcb_up_2021_2025.csv",
+    "sha256": "9ed3e9a7c8f30e957d5fa7024692646de6b0b1de4552828074b00f838746f66a",
+    "notes": "400 total rows. 24 station-name matches across 6 stations, dated January–October 2021. Review station types before import.",
+    "title": "Uttar Pradesh CPCB physical parameters",
+    "period": "2021"
+  },
+  {
+    "file": "prayagraj-dm-2024.pdf",
+    "url": "https://www.greentribunal.gov.in/sites/default/files/news_updates/REPORT%20BY%20DM%2C%20PRAYAGRAJ%20IN%20OA%20NO.%20227%20of%202024%20Kamlesh%20Singh%20VS%20State%20of%20Uttar%20Pradesh%20%26Ors..pdf",
+    "sha256": "364a90c4d40e841023fdcc2ae0b1fa5d2c3adc10ef61dbe8eee3053f3a7e8511",
+    "notes": "Prayagraj District Magistrate filing with July 2024 river measurements.",
+    "title": "Prayagraj District Magistrate river monitoring",
+    "period": "2024-07"
+  },
+  {
+    "file": "prayagraj-uppcb-2025-02.pdf",
+    "url": "https://www.greentribunal.gov.in/sites/default/files/news_updates/Report%20by%20UPPCB%20in%20MA%20No.%2026%20of%202025%20IN%20OA%20No.%20310%20of%202022%20%28Kamlesh%20Singh%20Vs.%20State%20of%20UP%20%26%20Ors.%29.pdf",
+    "sha256": "0a43694e5aa0af5ec3f2c8c7a37fbf0ac859ee21e4cdaa5b24977565b6659f4d",
+    "notes": "UPPCB filing with February 2025 monitoring across six river sampling sites.",
+    "title": "UPPCB Prayagraj river monitoring",
+    "period": "2025-02"
+  }
+]
